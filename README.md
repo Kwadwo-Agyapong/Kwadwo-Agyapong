@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kwadwo-Agyapong
 - 👀 I’m interested in Linux System Administration and AWS Cloud SysOps
-- 🌱 I’m currently learning Linux and AWS cloud
-- 💞️ I’m looking to collaborate on scaling and harding Linux Servers
+- 🌱 I’m currently learning Linux(RHEL) and AWS cloud fundermentals
+- 💞️ I’m looking to collaborate on administering and harding Linux Servers
 - 📫 kowalskianalysis@protonmail.com
 
 <!---
